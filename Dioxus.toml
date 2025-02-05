@@ -8,7 +8,7 @@ out_dir = "docs"
 
 # HTML title tag content
 title = "dioxus_playground"
-base_path = "https://skutcher.github.io/dioxus_playground/"
+base_path = "dioxus_playground"
 
 # include `assets` in web platform
 [web.resource]
